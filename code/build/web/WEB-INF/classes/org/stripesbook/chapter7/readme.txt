@@ -1,0 +1,1 @@
+/lib/chapter7/mysql-connector-java-5.1.17-bin.jar required on the class path

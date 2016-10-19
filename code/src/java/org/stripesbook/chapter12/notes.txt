@@ -1,0 +1,6 @@
+My recommendation; skip this chapter.
+
+That's right don't read it.
+
+Come back here if and when you actually need to add internationalization to your application.  No point learning stuff just to forget it.
+

@@ -1,0 +1,2 @@
+Either the Apache Commons FileUpload jar (http://commons.apache.org/fileupload/) or COS jar (http://www.servlets.com/cos/) are needed to perform a file upload.
+
